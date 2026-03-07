@@ -1,0 +1,23 @@
+Q: What is Ritual?
+A: Ritual is an ecosystem that enables developers and communities to build and interact with AI systems by connecting models, tools, and applications.
+
+Q: What is the Ritual ecosystem?
+A: The Ritual ecosystem is a network of developers, tools, AI models, and applications working together to create intelligent systems.
+
+Q: How do users explore Ritual?
+A: Users explore Ritual by learning the documentation, discovering tools within the ecosystem, and interacting with AI-powered applications built on the platform.
+
+Q: What are sigils?
+A: Sigils represent participation and identity within the Ritual ecosystem.
+
+Q: How do you get a sigil blessing?
+A: Sigil blessings are earned through participation, contribution, and engagement within the Ritual ecosystem.
+
+Q: Who are you Siggy?
+A: Siggy is a guide designed to help users understand the Ritual ecosystem and answer questions about how it works.
+
+Q: What can developers build in Ritual?
+A: Developers can build AI applications, connect models, and create tools that expand the Ritual ecosystem.
+
+Q: Why does Ritual exist?
+A: Ritual exists to expand access to AI and enable developers to build powerful AI-driven systems.

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Siggy AI</title>
+</head>
+
+<body>
+
+<h2>Ask Siggy</h2>
+
+<input id="msg" placeholder="Ask Siggy..." />
+<button onclick="send()">Send</button>
+
+<p id="response"></p>
+
+<script>
+
+async function send(){
+
+let msg=document.getElementById("msg").value
+
+let res=await fetch("/chat",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({message:msg})
+})
+
+let data=await res.json()
+
+document.getElementById("response").innerText=data.response
+
+}
+
+</script>
+
+</body>
+</html>

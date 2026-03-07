@@ -1,0 +1,7 @@
+Ritual is an ecosystem designed to help developers build and interact with AI systems.
+
+It provides infrastructure connecting AI models, tools, and applications within a unified ecosystem.
+
+Developers can build AI-powered applications and share them across the network.
+
+The goal of Ritual is to expand access to AI technology and support collaborative innovation.
